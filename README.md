@@ -236,3 +236,6 @@ This repository serves as the official landing page for **MySQL GUI Tools**. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MySQL GUI Tools today!**
+
+---
+**Last updated:** 2026-09-11 16:00:48 UTC
