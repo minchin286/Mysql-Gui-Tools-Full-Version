@@ -238,4 +238,4 @@ This repository serves as the official landing page for **MySQL GUI Tools**. The
 **Get the most recent version of MySQL GUI Tools today!**
 
 ---
-**Last updated:** 2026-10-04 22:49:27 UTC
+**Last updated:** 2026-10-05 01:40:31 UTC
